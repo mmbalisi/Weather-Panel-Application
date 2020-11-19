@@ -13,3 +13,8 @@ C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPane
 C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\obj\Debug\MarkJustineBalisi.WeatherPanel.Windows.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\obj\Debug\MarkJustineBalisi.WeatherPanel.Windows.exe
 C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\obj\Debug\MarkJustineBalisi.WeatherPanel.Windows.pdb
+C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\bin\Debug\RestSharp.dll
+C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\bin\Debug\RestSharp.xml
+C:\Users\hp\Documents\Major Activity\Weather Panel\MarkJustineBalisi.WeatherPanel.Windows\MarkJustineBalisi.WeatherPanel.Windows\obj\Debug\MarkJustineBalisi.WeatherPanel.Windows.csproj.CopyComplete
