@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MarkJustineBalisi.WeatherPanel.Windows
 {
-    class Weather_Area
+    class WeatherArea
     {
         public string Latitude { get; set; }
 
