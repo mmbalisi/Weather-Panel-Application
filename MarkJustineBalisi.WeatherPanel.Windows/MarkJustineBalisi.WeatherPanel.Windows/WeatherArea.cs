@@ -17,5 +17,10 @@ namespace MarkJustineBalisi.WeatherPanel.Windows
     public class CurrentWeather
     {
         public string Summary { get; set; }
+        public string temperature { get; set; }
+        public string humidity { get; set; }
+        public string pressure { get; set; }
+        public string windspeed { get; set; }
+        public string windbearing { get; set; }
     }
 }

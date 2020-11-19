@@ -42,7 +42,11 @@ namespace MarkJustineBalisi.WeatherPanel.Windows
 
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
             lblSummary.Content = area.Currently.Summary;
-
+            lblTemperature.Content = "Temperature: " + area.Currently.temperature;
+            lblHumidity.Content = "Humidity: " + area.Currently.humidity;
+            lblPressure.Content = "Pressure: " + area.Currently.pressure;
+            lblWindspeed.Content = "Windspeed: " + area.Currently.windspeed;
+            lblWindBearing.Content = "WindBearing: " + area.Currently.windbearing;
         }
     }
 }
